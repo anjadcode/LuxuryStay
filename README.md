@@ -50,7 +50,7 @@ A modern, responsive hotel booking platform built with React 19, TypeScript, and
 ✅ Bundle Size: 93.94 kB gzipped
 ✅ CSS Bundle: 10.82 kB gzipped
 ✅ Total Modules: 2109 transformed
-✅ Development Server: Hot reload on http://localhost:5174
+✅ Development Server: Hot reload on http://localhost:5173
 ```
 
 ## 📦 Getting Started
@@ -105,7 +105,6 @@ hotelwebapp/
 │   ├── utils/          # Utility functions
 │   └── router/         # Routing configuration
 ├── public/             # Static assets
-└── memory-bank/        # Project documentation (ignored in .gitignore)
 ```
 
 ## 🔧 Mock Data System
