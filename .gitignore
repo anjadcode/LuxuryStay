@@ -12,7 +12,7 @@ dist
 dist-ssr
 *.local
 
-memory-bank
+memory-bank/
 
 # Editor directories and files
 .vscode/*
